@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MaitakeAuth/static/css/main.e6c13ad2.css",
-    "main.js": "/MaitakeAuth/static/js/main.cd257c79.js",
+    "main.js": "/MaitakeAuth/static/js/main.5ae6c865.js",
     "static/js/787.052d9909.chunk.js": "/MaitakeAuth/static/js/787.052d9909.chunk.js",
     "index.html": "/MaitakeAuth/index.html",
     "main.e6c13ad2.css.map": "/MaitakeAuth/static/css/main.e6c13ad2.css.map",
-    "main.cd257c79.js.map": "/MaitakeAuth/static/js/main.cd257c79.js.map",
+    "main.5ae6c865.js.map": "/MaitakeAuth/static/js/main.5ae6c865.js.map",
     "787.052d9909.chunk.js.map": "/MaitakeAuth/static/js/787.052d9909.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cd257c79.js"
+    "static/js/main.5ae6c865.js"
   ]
 }
